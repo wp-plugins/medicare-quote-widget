@@ -4,7 +4,7 @@ Plugin Name: Medicare Quote Widget
 Plugin URI: http://blog.ehealthmedicare.com/medicare-quote-widget
 Description: Sends entered zip code to the eHealth Medicare census page for a Medicare quote
 Author: Trevor Hudson - eHealth Medicare	
-Version: 1.0
+Version: 1.1
 Author URI: http://www.ehealthmedicare.com
 */
 

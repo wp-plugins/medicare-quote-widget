@@ -1,10 +1,10 @@
 === Medicare Quote Widget ===
-Contributors: trevor, eHealth Medicare
+Contributors: trevhud, eHealth Medicare
 Donate link: http://www.ehealthmedicare.com
 Tags: Medicare, eHealth, eHealthMedicare
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 
 Medicare Quote Widget helps visitors get Medicare quotes.
@@ -17,19 +17,19 @@ Medicare Quote Widget allows site owners to display a form that sends a zip code
 
 == Installation ==
 
-Upload the Medicare Quote Widget plugin to your blog, and activate it.
+Upload the Medicare Quote Widget plugin to your blog, and activate it in the plugins section.
 
-Go to Appearance/widgets to add the Medicare Quote Widget to your blog.
+Go to Appearance/widgets to add the Medicare Quote Widget to your blog. You can drag it from "Available Widgets" to your widget area.
 
 == Frequently Asked Questions ==
 
 How do I find out more information about Medicare?
 
-You can go to www.medicare.gov to learn more about the Medicare program.
+You can go to www.medicare.gov or www.ehealthmedicare.com to learn more about the Medicare program.
 
 == Changelog ==
 
-So far, no changes have been made to the Medicare Quote Widget plugin.
+Added assets 4/24/2013
 
 == Upgrade Notice ==
 
