@@ -4,7 +4,7 @@ Plugin Name: Medicare Quote Widget
 Plugin URI: http://blog.ehealthmedicare.com/medicare-quote-widget
 Description: Sends entered zip code to the eHealth Medicare census page for a Medicare quote
 Author: Trevor Hudson - eHealth Medicare	
-Version: 1.1
+Version: 1.2
 Author URI: http://www.ehealthmedicare.com
 */
 
@@ -33,9 +33,9 @@ print<<<EOM
        <h2 style="font-size:24px; color:#092f5c; text-align:center">Get a Free Medicare Quote!</h2>
    <form action="http://www.ehealthmedicare.com/find-coverage?allid=Med35993" method="post" target="blank">
  <p style="font-size:14px; text-align:center">Zip Code:<input type="text" name="zip" style="width:60px"></p>
- <p style="text-align:center"><input type="image" src="/wp-content/plugins/medicare-quote/assets/img/ehealth-medicare-go.png" title="Find Medicare Insurance Options" alt="Find Medicare Insurance Options" class="go-btn"></p>
+ <p style="text-align:center"><input type="image" src="/wp-content/plugins/medicare-quote-widget/ehealth-medicare-go.png" title="Find Medicare Insurance Options" alt="Find Medicare Insurance Options" class="go-btn"></p>
 </form>
-<p style="text-align:center"><a href= "http://www.ehealthmedicare.com?allid=Med35993" target= "blank"><img src="/wp-content/plugins/medicare-quote/assets/img/ehealth-medicare-logo.gif" align="middle"></a></p>
+<p style="text-align:center"><a href= "http://www.ehealthmedicare.com?allid=Med35993" target= "blank"><img src="/wp-content/plugins/medicare-quote-widget/ehealth-medicare-logo.gif" align="middle"></a></p>
 
       </div>
 
