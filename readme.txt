@@ -4,7 +4,7 @@ Donate link: http://www.ehealthmedicare.com
 Tags: Medicare, eHealth, eHealthMedicare
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 
 Medicare Quote Widget helps visitors get Medicare quotes.
